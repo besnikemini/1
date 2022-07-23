@@ -1,0 +1,51 @@
+#ph {
+    text-align: center;
+    font-weight: 200;
+    font-family: serif;
+    color: #3582c4;
+}
+flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+    width: 1500px;
+    height: 420px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+flex-item {
+    height: 100px;
+    margin: 20px;
+    background-color: white;
+    text-align: left;
+    vertical-align: bottom;
+  }
+#one{
+    flex-basis: 460px;
+}
+#two{
+    flex-basis: 460px;
+}
+#three{
+    flex-basis: 460px;
+}
+#four{
+    flex-basis: 460px;
+}
+#five{
+    flex-basis: 460px;
+}
+#six{
+    flex-basis: 460px;
+}
+#seven{
+    flex-basis: 460px;
+}
+#eight{
+    flex-basis: 460px;
+}
+#nine{
+    flex-basis: 460px;
+}
